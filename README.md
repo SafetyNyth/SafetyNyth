@@ -16,7 +16,7 @@
 <li> ✨ <i>Aim : YouTube channel --> [YouTube](https://www.youtube.com/channel/UCTON7lNz9XCQWK0nDe6tIgQ)</i></li>
 
 <h3><b><i>☠ Works :</i></b></h3>
-<li> <a href="https://github.com/SafetyNyth/ISPTracker">Tack an ISP IP</a>
+<li> <a href="https://github.com/SafetyNyth/ISPTracker">Track IP - Will track the IP location of the ISP (Provider)</a>
 <li> <a href="https://github.com/SafetyNyth/Demisto">Demisto - Security Orchestration Automation and Responds</a>
 <li> <a href="https://github.com/SafetyNyth/Bloatware">Bloatware Remover - Will remove all bloatware from your computer</a>
   
