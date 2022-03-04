@@ -18,6 +18,7 @@
 <h3><b><i>☠ Works :</i></b></h3>
 <li> <a href="https://github.com/SafetyNyth/ISPTracker">Tack an ISP IP</a>
 <li> <a href="https://github.com/SafetyNyth/Demisto">Demisto - Security Orchestration Automation and Responds</a>
+<li> <a href="https://github.com/SafetyNyth/Bloatware">Bloatware Remover - Will remove all bloatware from your computer</a>
   
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/safetynyth"><img width=550 src="https://github-profile-trophy.vercel.app/?username=safetynyth&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
