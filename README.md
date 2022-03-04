@@ -20,7 +20,7 @@
 <li> <a href="https://github.com/SafetyNyth/Demisto">Demisto - Security Orchestration Automation and Responds</a>
   
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/safetynyth"><img width=550 src="https://github-profile-trophy.vercel.app/?username=htr-tech&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/safetynyth"><img width=550 src="https://github-profile-trophy.vercel.app/?username=safetynyth&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/safetynyth"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=htr-tech&color=blueviolet&style=flat-square"></a>
+<a href="https://github.com/safetynyth"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=safetynyth&color=blueviolet&style=flat-square"></a>
